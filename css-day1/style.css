@@ -1,0 +1,44 @@
+#headder{
+    text-align: center;
+    background-color: lightblue;
+    padding: 40px;
+}
+
+.highlight{
+    color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blue;
+    
+}
+.but-bot{
+    background-color: white;
+    cursor: pointer;
+    padding: 10px;
+    font-size:large;
+    
+    
+}
+a:link{
+    color: cadetblue;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    background-color: green;
+}
+a:active{
+    background-color: brown;
+}
+
+.open:hover{
+    background-color: lightcoral;
+    color: green;
+    
+}
+.open:active{
+    background-color: yellow;
+}
+.open:visited{
+    color: blue;
+}
